@@ -6,6 +6,6 @@
 
 ### I Love Tux 😍
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Tux, the Linux mascot](tux.png)
 
 You can have my resume from [here](https://raviindia.github.io/aboutme/).
